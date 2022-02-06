@@ -1,1 +1,1 @@
-Hi,This folder consists of HTML Assignments.
+Hi,this folder consists of HTML Assignments.
